@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AppMain<ProductManager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.codejava.AppMain",
+            "projectName": "ProductManager",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
